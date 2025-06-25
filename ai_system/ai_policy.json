@@ -1,0 +1,1588 @@
+{
+  "2_19": [
+    {
+      "angle": 4.7133031506523775,
+      "power": 224.12556537080775,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.713702493242731,
+      "power": 225.41443373573912,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.7146342926202225,
+      "power": 224.12556537080775,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.1879346566619329,
+      "power": 186.87249122412175,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.1868804704131777,
+      "power": 186.86671682401038,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.1876765158230573,
+      "power": 186.8298568284495,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.1909091030434427,
+      "power": 186.819527018564,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.714354752806975,
+      "power": 224.51222588028716,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    }
+  ],
+  "3_19": [
+    {
+      "angle": 5.216085189404133,
+      "power": 247.32271174672815,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.218715892027256,
+      "power": 247.08300479703547,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.209007773896265,
+      "power": 246.77987945208542,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.217793880842045,
+      "power": 245.77940843313223,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.2108082351501395,
+      "power": 247.69963298951856,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.209657824837872,
+      "power": 246.60738644176033,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.214746655656168,
+      "power": 247.15491688194328,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.211344469822265,
+      "power": 247.32271174672815,
+      "win_rate": 0.11302032591244127,
+      "strategy_type": "platform"
+    }
+  ],
+  "6_19": [
+    {
+      "angle": 0.4844492269123509,
+      "power": 284.76930790238725,
+      "win_rate": 0.1400717574566291,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 4.2053557404853095,
+      "power": 165.64310300971616,
+      "win_rate": 0.1213,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.476417366511951,
+      "power": 85.47872391811065,
+      "win_rate": 0.1205,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -0.913236086147331,
+      "power": 88.74585468399931,
+      "win_rate": 0.1158,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.003042195405687953,
+      "power": 79.31150284420323,
+      "win_rate": 0.1154,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.1451387860788272,
+      "power": 95.93783078898332,
+      "win_rate": 0.11460000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.6008534020945062,
+      "power": 261.83926232371846,
+      "win_rate": 0.11265455549605441,
+      "strategy_type": "bounce"
+    }
+  ],
+  "8_19": [
+    {
+      "angle": 0.5972543456509926,
+      "power": 220.02114319902392,
+      "win_rate": 0.9685,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.6528103618833245,
+      "power": 208.4250776902793,
+      "win_rate": 0.1415619907561084,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.5650345274940621,
+      "power": 280.85355258780834,
+      "win_rate": 0.14104455472910477,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.6486012232204561,
+      "power": 206.574328493515,
+      "win_rate": 0.14095732340509737,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.6352381023954538,
+      "power": 225.0560253011811,
+      "win_rate": 0.1408978024631411,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 5.369507437142556,
+      "power": 280.85355258780834,
+      "win_rate": 0.14054695816152282,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -0.2208971344256132,
+      "power": 112.81202761120623,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    }
+  ],
+  "11_19": [
+    {
+      "angle": 4.678399616869351,
+      "power": 55.28614796710191,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.5784769766233535,
+      "power": 55.28614796710191,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 4.6549542596943985,
+      "power": 43.19321906649721,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 4.693730519506513,
+      "power": 81.01867764077674,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 4.651343477505055,
+      "power": 31.28577151616799,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.5752436538651664,
+      "power": 79.60910421368229,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.6695857037658164,
+      "power": 20,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.627154526742515,
+      "power": 23.945805095665367,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    }
+  ],
+  "13_19": [
+    {
+      "angle": 3.335273241563006,
+      "power": 110.70973178519282,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.9280743157762674,
+      "power": 86.60658718828013,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.5620148846925828,
+      "power": 87.03971895944305,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.9987932653612277,
+      "power": 79.42638571882857,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.9181598257550054,
+      "power": 88.18832733172485,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.9216261962692656,
+      "power": 87.33752358731273,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.291524914701926,
+      "power": 106.43123307405965,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.8748488542907715,
+      "power": 74.3934145621934,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    }
+  ],
+  "16_19": [
+    {
+      "angle": 5.48129623320413,
+      "power": 182.25918332284027,
+      "win_rate": 0.997,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.30642040805376325,
+      "power": 105.39043763256049,
+      "win_rate": 0.2706,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 5.289286560521451,
+      "power": 223.57989908116042,
+      "win_rate": 0.24559999999999998,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.142296907354338,
+      "power": 176.87107603113557,
+      "win_rate": 0.169,
+      "strategy_type": "bounce"
+    }
+  ],
+  "1_16": [
+    {
+      "angle": 0.5900960601637977,
+      "power": 506.73416910532245,
+      "win_rate": 0.24538264144775393,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5560618398866264,
+      "power": 385.41894084438337,
+      "win_rate": 0.1418164799749741,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -1.4307960197919032,
+      "power": 143.39570983324614,
+      "win_rate": 0.11292158185005033,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.222803821964343,
+      "power": 62.56887320408029,
+      "win_rate": 0.11287351611430115,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.12242625380052,
+      "power": 52.61356349794818,
+      "win_rate": 0.11208402428635474,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.462599294291527,
+      "power": 96.05508799378242,
+      "win_rate": 0.11168917943984615,
+      "strategy_type": "platform"
+    }
+  ],
+  "10_9": [
+    {
+      "angle": 0.13039485288613797,
+      "power": 244.685813630101,
+      "win_rate": 1.0,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.38453296900871314,
+      "power": 192.11948326020828,
+      "win_rate": 0.2453729058794963,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 5.871505002876505,
+      "power": 166.648496165665,
+      "win_rate": 0.166476503065056,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": -0.8029884372541167,
+      "power": 96.94527647420266,
+      "win_rate": 0.1406260272880774,
+      "strategy_type": "platform"
+    }
+  ],
+  "4_15": [
+    {
+      "angle": 0.4684670205976059,
+      "power": 396.37069977837507,
+      "win_rate": 0.1415619907561084,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 3.2695655436297164,
+      "power": 110.70903207664136,
+      "win_rate": 0.12378778910507547,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.205393801275887,
+      "power": 69.80587755709891,
+      "win_rate": 0.12358788156924932,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.297178630116153,
+      "power": 108.74897767062632,
+      "win_rate": 0.12357709327117851,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.4102537920437723,
+      "power": 116.2823102812725,
+      "win_rate": 0.12357709327117851,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.006622426107419,
+      "power": 99.94391674674827,
+      "win_rate": 0.12357709327117851,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.4338354204476715,
+      "power": 117.62466963337263,
+      "win_rate": 0.12355742070069561,
+      "strategy_type": "safe"
+    }
+  ],
+  "1_8": [
+    {
+      "angle": 0.8613709631586974,
+      "power": 360.27559517628663,
+      "win_rate": 0.14221026316233984,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.8642137564327262,
+      "power": 341.293034498732,
+      "win_rate": 0.1407804555427071,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 5.653978053886229,
+      "power": 184.89851690941362,
+      "win_rate": 0.10817620732414951,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.15067129150817393,
+      "power": 187.40766350712173,
+      "win_rate": 0.10116850822965545,
+      "strategy_type": "bounce"
+    }
+  ],
+  "1_10": [
+    {
+      "angle": 0.20593752509534624,
+      "power": 483.5578781923631,
+      "win_rate": 0.14470471908205054,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.9250308737022834,
+      "power": 370.97619274764423,
+      "win_rate": 0.14353393473586915,
+      "strategy_type": "direct"
+    }
+  ],
+  "1_14": [
+    {
+      "angle": 0.5693849155405197,
+      "power": 278.67054138715355,
+      "win_rate": 0.16819926474563227,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6522732456188992,
+      "power": 272.54710621541085,
+      "win_rate": 0.16664715617289536,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6187143910316915,
+      "power": 291.42460128089454,
+      "win_rate": 0.14269931510062242,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.324626785421985,
+      "power": 413.76443020735115,
+      "win_rate": 0.14192472910671103,
+      "strategy_type": "direct"
+    }
+  ],
+  "1_18": [
+    {
+      "angle": 2.3473414419329766,
+      "power": 75.43830216130488,
+      "win_rate": 0.0974,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.3352202434479845,
+      "power": 75.22390921385409,
+      "win_rate": 0.0974,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 4.046279285497912,
+      "power": 167.77481076073357,
+      "win_rate": 0.09739847910944019,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 4.046279285497912,
+      "power": 167.77481076073357,
+      "win_rate": 0.09739847910944019,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -0.748607630530682,
+      "power": 48.09650409142741,
+      "win_rate": 0.0973,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.1734681241382114,
+      "power": 64.59588916136204,
+      "win_rate": 0.0973,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -0.30339306380976205,
+      "power": 37.17123653527855,
+      "win_rate": 0.0973,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.2877945466749714,
+      "power": 102.84635349248234,
+      "win_rate": 0.0973,
+      "strategy_type": "safe"
+    }
+  ],
+  "3_8": [
+    {
+      "angle": 0.1377352654910321,
+      "power": 208.17082895830993,
+      "win_rate": 0.4485,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.9034098899008484,
+      "power": 355.956603826636,
+      "win_rate": 0.14325833848372674,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.16804666927419543,
+      "power": 460.71234065865104,
+      "win_rate": 0.14223791265186997,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.8014694031297749,
+      "power": 291.90305632465487,
+      "win_rate": 0.14095732340509737,
+      "strategy_type": "direct"
+    }
+  ],
+  "3_14": [
+    {
+      "angle": 0.5523155368181975,
+      "power": 322.1367158833055,
+      "win_rate": 0.141476503065056,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -0.9927096045964816,
+      "power": 146.29355981033456,
+      "win_rate": 0.11129427027338906,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.9392262056788493,
+      "power": 130.1601422196225,
+      "win_rate": 0.11129427027338906,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.0608223602920008,
+      "power": 148.57235195969736,
+      "win_rate": 0.10892352914993114,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 3.809580086192007,
+      "power": 52.93911836014078,
+      "win_rate": 0.10763851248673319,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 3.704495587323265,
+      "power": 31.71655020855726,
+      "win_rate": 0.10437408407673568,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.303773601114364,
+      "power": 180.75116203561078,
+      "win_rate": 0.10328521770234536,
+      "strategy_type": "platform"
+    }
+  ],
+  "3_16": [
+    {
+      "angle": 3.1584144011329247,
+      "power": 35.22317332165922,
+      "win_rate": 0.10833051672616624,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 3.3343531289527517,
+      "power": 105.59548930971803,
+      "win_rate": 0.10645184174611254,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.8947131299054005,
+      "power": 87.1208738273682,
+      "win_rate": 0.10615510185932439,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 3.6128598328114685,
+      "power": 47.536917397990294,
+      "win_rate": 0.10516576770666121,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.0977273881343579,
+      "power": 48.47107741636256,
+      "win_rate": 0.09538205423123276,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.2176529853196338,
+      "power": 62.34309721840569,
+      "win_rate": 0.0951152115791634,
+      "strategy_type": "safe"
+    }
+  ],
+  "3_18": [
+    {
+      "angle": 5.205341396660913,
+      "power": 255.04254871633597,
+      "win_rate": 0.10981280800648029,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.026604844159896,
+      "power": 119.24184918922691,
+      "win_rate": 0.0969,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.1771629988816081,
+      "power": 78.08980138276405,
+      "win_rate": 0.09688644240874086,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.5571594999828063,
+      "power": 247.86370779414204,
+      "win_rate": 0.0967,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.10761958903213263,
+      "power": 21.494963934061882,
+      "win_rate": 0.0965,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.1551476547679167,
+      "power": 133.1252393162162,
+      "win_rate": 0.0964,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -2.6807469618765682,
+      "power": 99.8432611401428,
+      "win_rate": 0.0962,
+      "strategy_type": "safe"
+    }
+  ],
+  "4_8": [
+    {
+      "angle": 0.11085634478802481,
+      "power": 203.21411166736894,
+      "win_rate": 0.4485,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.1416130147187733,
+      "power": 464.1783097600907,
+      "win_rate": 0.14364704793029257,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.9548282022928584,
+      "power": 330.3665510029186,
+      "win_rate": 0.1426426907092334,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.960090184057549,
+      "power": 314.3230195161812,
+      "win_rate": 0.14031186292417372,
+      "strategy_type": "direct"
+    }
+  ],
+  "4_10": [
+    {
+      "angle": 0.1118397911536957,
+      "power": 185.55193857297806,
+      "win_rate": 1.0,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.27700765745384054,
+      "power": 227.41195438120616,
+      "win_rate": 0.4485,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.0132875072156704,
+      "power": 369.68117369446287,
+      "win_rate": 0.14346241634852755,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.0884089642132603,
+      "power": 254.0638313038311,
+      "win_rate": 0.141476503065056,
+      "strategy_type": "safe"
+    }
+  ],
+  "4_14": [
+    {
+      "angle": 0.4139352348828365,
+      "power": 405.00047831948484,
+      "win_rate": 0.14164715617289536,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 2.929795512366939,
+      "power": 405.00047831948484,
+      "win_rate": 0.14019795939612573,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.2058062805227412,
+      "power": 106.52150777894849,
+      "win_rate": 0.11307084692973751,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.5265192179908642,
+      "power": 103.15322617834568,
+      "win_rate": 0.11247880359430092,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.9103436829134018,
+      "power": 91.83937347320493,
+      "win_rate": 0.11228142221000224,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.9669723280624738,
+      "power": 94.38167250831782,
+      "win_rate": 0.11228142221000224,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.000508757257939,
+      "power": 99.00250188403685,
+      "win_rate": 0.11228142221000224,
+      "strategy_type": "platform"
+    }
+  ],
+  "4_16": [
+    {
+      "angle": 0.9102284046725265,
+      "power": 116.95647366516167,
+      "win_rate": 0.11320186086944042,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.9249553348284929,
+      "power": 115.09572214512104,
+      "win_rate": 0.11320186086944042,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.9249553348284929,
+      "power": 115.09572214512104,
+      "win_rate": 0.11320186086944042,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.899328437556364,
+      "power": 115.09572214512104,
+      "win_rate": 0.11320186086944042,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.9128901548012145,
+      "power": 117.1659756322177,
+      "win_rate": 0.11320186086944042,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.6930708035953095,
+      "power": 104.76683418548204,
+      "win_rate": 0.1131695059052574,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.8419674525762293,
+      "power": 123.11615679371539,
+      "win_rate": 0.1131695059052574,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.6910007288452693,
+      "power": 103.53875149135465,
+      "win_rate": 0.1131695059052574,
+      "strategy_type": "platform"
+    }
+  ],
+  "4_18": [
+    {
+      "angle": 2.228570591762181,
+      "power": 120.36797489906478,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.223643733105099,
+      "power": 120.36797489906478,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.225820516693081,
+      "power": 120.26189733799367,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.246998500097726,
+      "power": 122.56769170494199,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.222326242794595,
+      "power": 120.35992930213976,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.2266005878242208,
+      "power": 120.1362228910343,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.2275952857023955,
+      "power": 120.46693312301488,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.2243131401686274,
+      "power": 120.55901927295781,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    }
+  ],
+  "6_8": [
+    {
+      "angle": 1.0466390278496875,
+      "power": 343.75639476906963,
+      "win_rate": 0.4477796396688825,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.9920746477345229,
+      "power": 355.59144764535813,
+      "win_rate": 0.14199375243950077,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.9885745964920172,
+      "power": 356.07988198098604,
+      "win_rate": 0.14130229915437417,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.843423671308259,
+      "power": 81.31543242155186,
+      "win_rate": 0.14043108332620186,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.0060419218302221,
+      "power": 303.27933299949353,
+      "win_rate": 0.14020153073179284,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.8208043784718553,
+      "power": 69.62192735954396,
+      "win_rate": 0.13681282937948924,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.574121997955367,
+      "power": 60.15681057656665,
+      "win_rate": 0.13593569404174702,
+      "strategy_type": "platform"
+    }
+  ],
+  "6_18": [
+    {
+      "angle": 0.3975193614607944,
+      "power": 272.63893105510846,
+      "win_rate": 0.141476503065056,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 2.8310783433846547,
+      "power": 96.76636087469541,
+      "win_rate": 0.12359999999999999,
+      "strategy_type": "safe"
+    }
+  ],
+  "7_8": [
+    {
+      "angle": 1.0895184384665055,
+      "power": 305.4320279172979,
+      "win_rate": 0.14356727118556983,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -1.095596682293861,
+      "power": 105.75311261436912,
+      "win_rate": 0.14033229168231623,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.0284188046872562,
+      "power": 312.02310537631655,
+      "win_rate": 0.1403123790330133,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -1.035681353646254,
+      "power": 108.50108255493191,
+      "win_rate": 0.1401824756767515,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.140653772193542,
+      "power": 113.91982384596528,
+      "win_rate": 0.14013210645880655,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.5717904929081401,
+      "power": 74.56355674918161,
+      "win_rate": 0.14008152351547967,
+      "strategy_type": "platform"
+    }
+  ],
+  "7_16": [
+    {
+      "angle": 0.8607011016976698,
+      "power": 272.95683321153433,
+      "win_rate": 0.9715,
+      "strategy_type": "safe"
+    }
+  ],
+  "7_18": [
+    {
+      "angle": 0.4135050691387906,
+      "power": 245.5945117570923,
+      "win_rate": 0.1424197625367011,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.4641444367123907,
+      "power": 248.92172876614808,
+      "win_rate": 0.14025012820597113,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -1.1310680485846873,
+      "power": 86.018003730422,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.5084605424772751,
+      "power": 41.19683715500037,
+      "win_rate": 0.12329999999999999,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.1156308395586865,
+      "power": 123.70909182408487,
+      "win_rate": 0.1229,
+      "strategy_type": "safe"
+    }
+  ],
+  "9_8": [
+    {
+      "angle": 1.161030993700139,
+      "power": 300.21433599607207,
+      "win_rate": 0.24529043526427335,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.1270710089232074,
+      "power": 309.55233663122345,
+      "win_rate": 0.1446185503811705,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.2059160919792078,
+      "power": 281.1643788224008,
+      "win_rate": 0.14028712195072954,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.2076207998306436,
+      "power": 281.23721328721274,
+      "win_rate": 0.1402383403050506,
+      "strategy_type": "direct"
+    }
+  ],
+  "9_18": [
+    {
+      "angle": 0.5619295709357898,
+      "power": 186.82432942986097,
+      "win_rate": 0.14248667849749527,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 5.391106471775739,
+      "power": 248.220477148927,
+      "win_rate": 0.14197753155194737,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.540436023159196,
+      "power": 265.899008279512,
+      "win_rate": 0.14164715617289536,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5696418926171096,
+      "power": 198.75893198906115,
+      "win_rate": 0.14164536057031785,
+      "strategy_type": "direct"
+    }
+  ],
+  "10_8": [
+    {
+      "angle": 1.0189665443191156,
+      "power": 286.92465562427276,
+      "win_rate": 1.0,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.008704534976106093,
+      "power": 154.00005588298174,
+      "win_rate": 0.24559999999999998,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.1716929015136843,
+      "power": 313.6331877900662,
+      "win_rate": 0.14393617282568177,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.0274866660309048,
+      "power": 236.61782376298464,
+      "win_rate": 0.14095732340509737,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -1.2764522207305007,
+      "power": 95.1678083454793,
+      "win_rate": 0.14086468104733751,
+      "strategy_type": "platform"
+    }
+  ],
+  "10_18": [
+    {
+      "angle": 5.217836249368842,
+      "power": 223.06892561023207,
+      "win_rate": 0.16546165632827164,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.5565663018621523,
+      "power": 191.37437673649998,
+      "win_rate": 0.14221796941666254,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.6150794535538959,
+      "power": 174.1771134443416,
+      "win_rate": 0.1418164799749741,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5698782346545632,
+      "power": 175.72728844690735,
+      "win_rate": 0.1415619907561084,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5008376859118782,
+      "power": 201.34381942852735,
+      "win_rate": 0.1412307354926425,
+      "strategy_type": "direct"
+    }
+  ],
+  "12_8": [
+    {
+      "angle": 5.913266133848047,
+      "power": 209.96533294735823,
+      "win_rate": 1.0,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.96118641420906,
+      "power": 226.07292351205064,
+      "win_rate": 0.9985,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.3002905107591411,
+      "power": 308.1945238718671,
+      "win_rate": 0.7486847053562034,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.08765910426487823,
+      "power": 203.67864537164272,
+      "win_rate": 0.4485,
+      "strategy_type": "direct"
+    }
+  ],
+  "12_18": [
+    {
+      "angle": 0.5454126253419473,
+      "power": 224.10051648932986,
+      "win_rate": 0.997,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.46440160771412753,
+      "power": 230.5314713386433,
+      "win_rate": 0.9955,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 0.6538473587190615,
+      "power": 160.66151548082135,
+      "win_rate": 0.14312904664547926,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.6339069011170698,
+      "power": 166.62027515550218,
+      "win_rate": 0.14247072380636758,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.8135013657889931,
+      "power": 138.29724069337036,
+      "win_rate": 0.14202441224736384,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5651621200818955,
+      "power": 172.89225914134929,
+      "win_rate": 0.14184340757423786,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.706178275625073,
+      "power": 221.2711382589826,
+      "win_rate": 0.14164715617289536,
+      "strategy_type": "safe"
+    }
+  ],
+  "13_8": [
+    {
+      "angle": 1.180271139010614,
+      "power": 283.3850025202462,
+      "win_rate": 1.0,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -0.8003759724355304,
+      "power": 135.52090206982987,
+      "win_rate": 1.0,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.845892680115941,
+      "power": 161.04863379030078,
+      "win_rate": 0.988,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 1.3643764749280627,
+      "power": 300.89698509346,
+      "win_rate": 0.7493596875762566,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -0.6717773568991698,
+      "power": 124.52815120571007,
+      "win_rate": 0.24727053118720874,
+      "strategy_type": "platform"
+    }
+  ],
+  "13_18": [
+    {
+      "angle": 0.8471874358756858,
+      "power": 129.69674177046443,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.847218264181375,
+      "power": 129.6245575863055,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8464878280291839,
+      "power": 129.68588796190267,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8460934619003131,
+      "power": 129.68588796190267,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8461690896751001,
+      "power": 129.7383192470661,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8460934619003131,
+      "power": 129.68588796190267,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8473485852609525,
+      "power": 129.57385239491916,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.8462550289610465,
+      "power": 129.75136878118104,
+      "win_rate": 0.168799193600829,
+      "strategy_type": "bounce"
+    }
+  ],
+  "4_19": [
+    {
+      "angle": 5.000215401044413,
+      "power": 251.5223506371534,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.997713151881806,
+      "power": 251.5223506371534,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.004171438135945,
+      "power": 249.64890728084924,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.996657223104647,
+      "power": 251.10126743970136,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 5.003179799977224,
+      "power": 251.04208197210562,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.992795245228649,
+      "power": 250.0232049525937,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.996240767068008,
+      "power": 250.53065723509553,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 4.996974001737795,
+      "power": 251.22759239893696,
+      "win_rate": 0.11321780191673332,
+      "strategy_type": "platform"
+    }
+  ],
+  "14_17": [
+    {
+      "angle": -0.7192870360981884,
+      "power": 52.5438586950043,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": -0.7105786935571154,
+      "power": 51.584262901775624,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 5.504467020875011,
+      "power": 55.25243698032368,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 1.0915481885453344,
+      "power": 65.89078798147786,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.184962781815173,
+      "power": 158.80330576502706,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.157736132791865,
+      "power": 44.596580714451115,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.764259643149359,
+      "power": 139.52933244560353,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 3.0991249435709647,
+      "power": 158.42452062642445,
+      "win_rate": 0.12390000000000001,
+      "strategy_type": "safe"
+    }
+  ],
+  "15_17": [
+    {
+      "angle": 2.6529717413003353,
+      "power": 145.53322797511711,
+      "win_rate": 0.9955,
+      "strategy_type": "platform"
+    }
+  ],
+  "16_17": [
+    {
+      "angle": 2.8293204055235424,
+      "power": 212.43249835413326,
+      "win_rate": 0.997,
+      "strategy_type": "safe"
+    },
+    {
+      "angle": 2.6281917242156223,
+      "power": 173.02274920485516,
+      "win_rate": 0.979,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -3.3055094567526755,
+      "power": 97.16973185005986,
+      "win_rate": 0.9745,
+      "strategy_type": "safe"
+    }
+  ],
+  "15_11": [
+    {
+      "angle": 5.793393951744648,
+      "power": 175.28553611040078,
+      "win_rate": 0.9955,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -0.5306452897618281,
+      "power": 90.18470190939047,
+      "win_rate": 0.9925,
+      "strategy_type": "platform"
+    }
+  ],
+  "1_13": [
+    {
+      "angle": 0.6449904546710618,
+      "power": 230.92036291493088,
+      "win_rate": 0.1650994949623769,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.5718614251814256,
+      "power": 261.1964615956454,
+      "win_rate": 0.14460926721122258,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 0.5685671825876192,
+      "power": 250.4838520182553,
+      "win_rate": 0.144591673086804,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 0.5431056099444227,
+      "power": 258.63959267442954,
+      "win_rate": 0.1439394719701993,
+      "strategy_type": "direct"
+    }
+  ],
+  "3_17": [
+    {
+      "angle": 2.250618538620417,
+      "power": 101.42637241897285,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.247546100195417,
+      "power": 102.1369321602733,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.245905712693763,
+      "power": 102.02099417858416,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.2433130840738675,
+      "power": 101.81872944911296,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.2534910259612007,
+      "power": 101.8416270473964,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.250319568530947,
+      "power": 102.39335168376797,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.251286156604349,
+      "power": 101.50173279452696,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": 2.24838114725017,
+      "power": 101.52264498061919,
+      "win_rate": 0.11315042441536079,
+      "strategy_type": "platform"
+    }
+  ],
+  "3_9": [
+    {
+      "angle": 0.45073365985712877,
+      "power": 168.8231464496647,
+      "win_rate": 0.141476503065056,
+      "strategy_type": "safe"
+    }
+  ],
+  "8_9": [
+    {
+      "angle": 0.9229043341123221,
+      "power": 379.5333654499779,
+      "win_rate": 0.14095732340509737,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": 1.1254817052972665,
+      "power": 304.31024790854406,
+      "win_rate": 0.14088188615995612,
+      "strategy_type": "direct"
+    },
+    {
+      "angle": -0.9403043877629089,
+      "power": 112.79229161361742,
+      "win_rate": 0.14072216459576248,
+      "strategy_type": "platform"
+    },
+    {
+      "angle": -1.0179639233128424,
+      "power": 119.66777455618995,
+      "win_rate": 0.14023263024041077,
+      "strategy_type": "platform"
+    }
+  ],
+  "11_18": [
+    {
+      "angle": 0.6937926818878656,
+      "power": 176.05263413699757,
+      "win_rate": 0.16803652385657852,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6923448275155971,
+      "power": 175.96593094632848,
+      "win_rate": 0.16803652385657852,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6847994579292421,
+      "power": 177.36449708678975,
+      "win_rate": 0.16803580586140793,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6930645842990923,
+      "power": 176.35366207046226,
+      "win_rate": 0.1680143003213708,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6906410390533122,
+      "power": 176.17164518550476,
+      "win_rate": 0.1680143003213708,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6919728141152758,
+      "power": 176.25414913813876,
+      "win_rate": 0.1680143003213708,
+      "strategy_type": "bounce"
+    },
+    {
+      "angle": 0.6907646309311795,
+      "power": 176.16113458450937,
+      "win_rate": 0.1680143003213708,
+      "strategy_type": "bounce"
+    }
+  ]
+}
