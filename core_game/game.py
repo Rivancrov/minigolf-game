@@ -705,22 +705,32 @@ def main_ai(level, all_scores):
 
         # Check if scored
         if is_score(gball) == True and not score_state:
-            if current_player == 'human' and not human_scored:
-                human_scored = True
-                # Reset ball for AI to continue
-                gball.x = 100
-                gball.y = WINDOWY - ball.ball_dimensions
-                gball.x_vel = 0
-                gball.y_vel = 0
-                gball.fire_state = False
-                gball.rolling_state = False
-                gball.draw_state = True
-                current_player = 'ai'
-                ai_has_thought = False
+            print(f"DEBUG: Ball scored! current_player={current_player}, human_scored={human_scored}, ai_scored={ai_scored}")
+            
+            if current_player == 'human':
+                if not human_scored:
+                    human_scored = True
+                    print(f"DEBUG: Human scored. Setting human_scored=True.")
                 
-            elif current_player == 'ai' and not ai_scored:
-                ai_scored = True
-                # Reset ball for human to continue (if they haven't scored)
+                # If AI hasn't scored yet, reset ball and switch to AI
+                if not ai_scored:
+                    gball.x = 100
+                    gball.y = WINDOWY - ball.ball_dimensions
+                    gball.x_vel = 0
+                    gball.y_vel = 0
+                    gball.fire_state = False
+                    gball.rolling_state = False
+                    gball.draw_state = True
+                    current_player = 'ai'
+                    ai_has_thought = False
+                    print(f"DEBUG: Human scored. Ball reset. Switching to AI. current_player={current_player}, ai_has_thought={ai_has_thought}")
+                
+            elif current_player == 'ai':
+                if not ai_scored:
+                    ai_scored = True
+                    print(f"DEBUG: AI scored. Setting ai_scored=True.")
+                
+                # If human hasn't scored yet, reset ball and switch to Human
                 if not human_scored:
                     gball.x = 100
                     gball.y = WINDOWY - ball.ball_dimensions
@@ -730,16 +740,17 @@ def main_ai(level, all_scores):
                     gball.rolling_state = False
                     gball.draw_state = True
                     current_player = 'human'
-                    
-            # End level if both have scored or max strokes reached
+                    print(f"DEBUG: AI scored. Ball reset. Switching to Human. current_player={current_player}")
+
+            # Check for end of level conditions AFTER potential ball resets
             if (human_scored and ai_scored) or stroke_counter >= 8 or ai_stroke_counter >= 8:
                 score_state = True
-                gball.draw_state = False
+                gball.draw_state = False # Stop drawing ball if level ends
+                print(f"DEBUG: Score state set to True. Human scored: {human_scored}, AI scored: {ai_scored}")
                 
                 # Determine winner
                 popup_font = pygame.font.Font('freesansbold.ttf', 40)
                 if human_scored and ai_scored:
-                    # Both scored - compare strokes (fewer strokes wins)
                     if stroke_counter < ai_stroke_counter:
                         display = popup_font.render('You Win!', True, green)
                     elif stroke_counter > ai_stroke_counter:
@@ -747,13 +758,10 @@ def main_ai(level, all_scores):
                     else:
                         display = popup_font.render('Tie Game!', True, yellow)
                 elif human_scored and not ai_scored:
-                    # Only human scored - human wins
                     display = popup_font.render('You Win!', True, green)
                 elif ai_scored and not human_scored:
-                    # Only AI scored - AI wins
                     display = popup_font.render('AI Wins!', True, red)
                 else:
-                    # Nobody scored - it's a tie
                     display = popup_font.render('Nobody Scored!', True, white)
         
         # Change to scoreboard
