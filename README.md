@@ -1,4 +1,4 @@
-# 🏌️‍♂️ Intelligent Minigolf AI Project
+# 🏌️‍♂️  Minigolf AI Game
 
 An advanced minigolf game with mega-evolved AI that uses genetic algorithms and physics-aware strategies.
 
